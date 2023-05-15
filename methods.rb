@@ -8,7 +8,7 @@ def greet(name ="Naureen")
     puts "Hello, #{name}!"
 end
 greet
-# greet("Naureen")
+# greet
 def greet_with_default(name = "programmer")
     puts "Hello, #{name}!"
 end
